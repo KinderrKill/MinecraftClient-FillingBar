@@ -3,6 +3,7 @@
 <br/>
 <p align="center">
 <img src=https://static.companyofcube.fr/youtube/webAssets/0e261f03c395fbf6487d553e59453513.gif width="350" height="200">
+<img src=https://static.companyofcube.fr/youtube/webAssets/cfb25541bb18d6f631a3621c8dc4b6c0.gif width="350" height="200">
 </p>
 
 ## French description
