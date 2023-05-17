@@ -1,14 +1,5 @@
 # Minecraft Client MCP - Barre dynamique de remplissage !
 
-<br/>
-<p align="center">
-<img src=https://static.companyofcube.fr/youtube/webAssets/0e261f03c395fbf6487d553e59453513.gif width="350" height="200">
-<img src=https://static.companyofcube.fr/youtube/webAssets/cfb25541bb18d6f631a3621c8dc4b6c0.gif width="350" height="200">
-</p>
-
-## French description
-
-Bonjour à tous et à toutes !<br/>
 Je vous propose aujourd'hui une petite classe permettant de faire une barre dynamique en fonction de deux valeurs, une maximal et une de référence. <br/>
 Cela vous permet de faire des barres de progression. Sur mon propre projet j'utilise ce système pour la vie, l'expérience, la réputation et les métiers.<br/>
 Vous pouvez faire pas mal de chose, il vous fait juste les imaginer ;)<br/>
